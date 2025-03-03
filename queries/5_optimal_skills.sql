@@ -1,5 +1,5 @@
 /*
-QQuestion: What are the best skills to learn for a high-demand, high-paying Junior Data role?
+Question: What are the best skills to learn for a high-demand, high-paying Junior Data role?
 
 - Identify skills that are both in high demand and linked to high average salaries for Junior Data positions.
 - Focus on remote roles with specified salary data.
@@ -61,4 +61,4 @@ WHERE
 ORDER BY
     avg_salary DESC,
     demand_count DESC
-LIMIT 25
+LIMIT 5
